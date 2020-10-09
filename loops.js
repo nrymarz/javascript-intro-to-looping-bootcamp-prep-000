@@ -7,4 +7,6 @@ function forLoop(arr){
     }
   }
 }
-forLoop([]);
+newarr = []
+forLoop(newarr)
+console.log(newarr[15]);
